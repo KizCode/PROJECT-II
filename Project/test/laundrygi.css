@@ -1,0 +1,32 @@
+body {
+    margin: auto;
+    padding: auto;
+}
+
+.menu {
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 15% 5px 15% 5px;
+    margin: 5% 15%;
+    padding: 5% 5% 5% 5%;
+    background-color: rgb(202, 0, 0);
+    color: white;
+    
+}
+
+.output {
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 20px 1px 20px 1px;
+    margin: center;
+    margin: 2% 35% 2% 35%;
+    padding: 5% 0% 5% 5%;
+    background-color: rgb(0, 162, 202);
+    color: white;
+}
+
+.tm {
+    text-align: center;
+}

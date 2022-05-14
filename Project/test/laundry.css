@@ -1,0 +1,16 @@
+body {
+    margin: auto;
+    padding: auto;
+}
+
+.menu {
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 15% 5px 15% 5px;
+    margin: 5% 15%;
+    padding: 5% 5% 5% 5%;
+    background-color: rgb(202, 0, 0);
+    color: white;
+    
+}
